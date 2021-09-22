@@ -10,6 +10,6 @@ namespace CursoMVC.Models
         public int id { get; set; }
         public string description { get; set; }
         
-
+        public List<Produto> Produtos { get; set; }
     }
 }
