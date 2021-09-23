@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoMVC", "CursoMVC\CursoM
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoAPI", "CursoAPI\CursoAPI.csproj", "{94D32075-4ACE-42EE-B924-E4603C0FBE67}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoTeste", "CursoTeste\CursoTeste.csproj", "{4E901EC7-3F70-4066-B1AA-F98EA7245CAA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{94D32075-4ACE-42EE-B924-E4603C0FBE67}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{94D32075-4ACE-42EE-B924-E4603C0FBE67}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{94D32075-4ACE-42EE-B924-E4603C0FBE67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E901EC7-3F70-4066-B1AA-F98EA7245CAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E901EC7-3F70-4066-B1AA-F98EA7245CAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E901EC7-3F70-4066-B1AA-F98EA7245CAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E901EC7-3F70-4066-B1AA-F98EA7245CAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
